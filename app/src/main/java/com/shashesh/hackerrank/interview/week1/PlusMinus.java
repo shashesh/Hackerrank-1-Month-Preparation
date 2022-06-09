@@ -2,6 +2,10 @@ package com.shashesh.hackerrank.interview.week1;
 
 import java.util.*;
 
+/**
+ *
+ * @author shashesh
+ */
 class PlusMinus {
 
     public static void plusMinus(List<Integer> arr) {
